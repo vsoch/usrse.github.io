@@ -3,10 +3,11 @@ layout: post
 title: US-RSE Goals 
 subtitle: US-RSE Steering Committee sets initial goals
 posted_by: Ian Cosden
+tags: [governance]
 ---
 
 
-The US-RSE organization is centered around three main goals.  Moving
+The US-RSE Association is centered around three main goals.  Moving
 forward we aim to target our activities and actions to serving these
 three main goals. Over time we plan to revist and refine these goals as
 the needs and desires of the community change.
@@ -23,7 +24,7 @@ the needs and desires of the community change.
 
 ## Advocacy 
 
-  We aim to promote RSEs impact on research, highlighting the
+  We aim to promote RSEs' impact on research, highlighting the
   increasingly critical and valuable role RSEs serve.
 
 ## Resources 
