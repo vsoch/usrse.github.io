@@ -299,7 +299,7 @@ repository here. These features are available as of version 0.1.6 that is used
 in the [workflow](.github/workflows/urlchecker.yml). In addition, @vsoch found
 a Rust tool called [crate-ci/typos](https://github.com/marketplace/actions/typos-action)
 and contributed an equivalent action so all posts and pages are spell checked.
-If you CI fails, the spelling suggestions will be shown and you can manually
+If your CI fails, the spelling suggestions will be shown and you can manually
 update the mistakes, or [install typos](https://github.com/crate-ci/typos#install) 
 and have all errors fixed automatically:
 
