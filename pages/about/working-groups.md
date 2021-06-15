@@ -18,4 +18,4 @@ The US-RSE Association is committed to providing an inclusive environment with e
 ### Website
 
 The US-RSE website working group assembled in late 2020/2021 to proactively work on the content and design of the US-RSE website.
-If you are interested in working on the site, or want to suggest features or a better design, you can join the `#website` channel on the US-RSE slack, or jump right in and start a discussion on <a href="https://github.com/usrse/usrse.github.io/issues">the GitHub issues board</a>.
+If you are interested in working on the site, or want to suggest features or a better design, you can join the `#website` channel on the US-RSE slack, or jump right in and start a discussion on the <a href="https://github.com/usrse/usrse.github.io/issues">GitHub issues board</a>.
