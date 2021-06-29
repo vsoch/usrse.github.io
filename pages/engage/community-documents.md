@@ -16,4 +16,4 @@ with the repository here.
 
 ![{{ site.baseurl }}/assets/img/usrse-book-small.png]({{ site.baseurl }}/assets/img/usrse-book-small.png)
 
-You can read about how to clone and contribute to the documents [here](https://github.com/USRSE/usrse.github.io/wiki).
+You can read about how to clone and contribute to the documents <a href="https://github.com/USRSE/usrse.github.io/wiki" target="_blank">here</a>.
