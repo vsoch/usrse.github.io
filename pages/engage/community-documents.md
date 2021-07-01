@@ -10,7 +10,7 @@ menubar_toc: true
 
 A community whitepaper is a living document that represents a community effort
 to discuss a question or idea. We call it "living" because we encourage community
-members to edit and contribute to the documents over time, and so there isn't
+members to edit and contribute to the documents over time, so there isn't
 a "publish" date associated with it. For this reason, we use [the wiki](https://github.com/USRSE/usrse.github.io/wiki) associated
 with the repository here. 
 
