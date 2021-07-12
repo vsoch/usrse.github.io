@@ -4,8 +4,6 @@ title: US-RSE Job Posting Policy
 permalink: /job-policy/
 ---
 
-## Posting RSE-related Jobs on the US-RSE Job Board
-
 We happily post RSE and RSE-related job openings as a service to our community.
 There is currently no fee associated with posting to the [US-RSE job board]({{ site.baseurl }}/jobs/).
 We encourage RSE and RSE-related posts from all organization types (e.g. academic, industry, national labs, non-profits, etc.).
