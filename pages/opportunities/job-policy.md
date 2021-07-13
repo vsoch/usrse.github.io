@@ -1,7 +1,7 @@
 ---
 layout: page
 title: US-RSE Job Posting Policy
-permalink: /job-policy/
+permalink: /jobs/job-policy/
 ---
 
 We happily post RSE and RSE-related job openings as a service to our community.
