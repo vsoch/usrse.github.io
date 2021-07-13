@@ -1,7 +1,7 @@
 # The United States (US) Research Software Engineer Association
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-41-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## What is this?
@@ -411,6 +411,8 @@ tool to generate a contributors graphic below.
     <td align="center"><a href="https://newton.cx/~peter/"><img src="https://avatars.githubusercontent.com/u/59598?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Peter Williams</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=pkgw" title="Code">💻</a></td>
     <td align="center"><a href="https://freelancerbrg.com"><img src="https://avatars.githubusercontent.com/u/1132451?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BRG</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=coolbrg" title="Code">💻</a></td>
     <td align="center"><a href="https://csmd.ornl.gov/profile/david-bernholdt"><img src="https://avatars.githubusercontent.com/u/426409?v=4?s=100" width="100px;" alt=""/><br /><sub><b>David E. Bernholdt</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=bernhold" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/manbat"><img src="https://avatars.githubusercontent.com/u/41646490?v=4?s=100" width="100px;" alt=""/><br /><sub><b>manbat</b></sub></a><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=manbat" title="Code">💻</a></td>
+    <td align="center"><img src="?s=100" width="100px;" alt=""/><br /><sub><b>Mark Carroll</b></sub><br /><a href="https://github.com/USRSE/usrse.github.io/commits?author=mtbc" title="Code">💻</a></td>
   </tr>
 </table>
 
