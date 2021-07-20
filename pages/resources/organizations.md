@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organizations Relevant to RSEs
-permalink: /external/organizations/
+permalink: /resources/organizations/
 subtitle: Learn about software engineering and research practices
 ---
 

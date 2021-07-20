@@ -52,12 +52,16 @@
     - name: News Archive
       link: archive
 
-- name: External
+- name: Resources
+  link: resources/
   dropdown:
     - name: Organizations
-      link: external/organizations/
+      link: resources/organizations/
     - name: RSE Resources
-      link: external/rses/
+      link: resources/rses/
+
+- name: External
+  dropdown:
     - name: RSE Map
       link: "https://usrse.github.io/usrse-map"
       external: true

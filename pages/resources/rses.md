@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RSE Resources
-permalink: /external/rses/
+permalink: /resources/rses/
 subtitle: Resources for RSEs
 ---
 
