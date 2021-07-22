@@ -52,11 +52,13 @@
     - name: News Archive
       link: archive
 
-- name: Training
-  link: links/
+- name: Resources
+  link: resources/
   dropdown:
-    - name: Links
-      link: links
+    - name: Organizations
+      link: resources/organizations/
+    - name: RSE Resources
+      link: resources/rses/
 
 - name: External
   dropdown:
